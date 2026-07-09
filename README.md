@@ -15,6 +15,7 @@ LayerToolData CleaningPython (pandas)DatabaseSQL Server (SSMS)VisualizationTable
 
 Project Structure
 
+```
 supermarket-marketing-campaign/
 │
 ├── data/
@@ -38,6 +39,7 @@ supermarket-marketing-campaign/
 │   └── dashboard_3_marketing.png
 │
 └── README.md
+```
 
 
 Dataset
